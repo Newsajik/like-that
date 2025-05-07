@@ -22,7 +22,7 @@ if (
     const style = iframe.style;
     const link = doc.createElement("link");
 
-    const name = localStorage.getItem("name") || "My Drive - Google Drive";
+    const name = localStorage.getItem("name") || "im a weirdo";
     const icon =
       localStorage.getItem("icon") ||
       "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png";
@@ -172,16 +172,16 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Over 8 Million Users since 2023",
-  "Fastest growing proxy server",
-  "Made by xBubbo",
-  "Check out discord.gg/interstellar :)",
+  "Over 8 Million princesses",
+  "Fastest growing reed",
+  "Made by reed",
+  "Check out 6th period :)",
   "Thanks for using the site",
-  "Follow us on Tiktok (@useinterstellar)",
-  "Subscribe to us on YouTube (@unblocking)",
-  "Subscribe to my Youtube (@xbubbo)",
-  "Check out the settings page",
-  "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  "Follow us on our walk home",
+  "Subscribe to us on your mom.com)",
+  "Subscribe to my Youtube yo ma",
+  "Check out princess",
+  "Check out reed",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
